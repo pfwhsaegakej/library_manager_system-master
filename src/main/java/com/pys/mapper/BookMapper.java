@@ -1,7 +1,7 @@
-package com.zbw.mapper;
+package com.pys.mapper;
 
-import com.zbw.domain.Book;
-import com.zbw.domain.BookExample;
+import com.pys.domain.Book;
+import com.pys.domain.BookExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

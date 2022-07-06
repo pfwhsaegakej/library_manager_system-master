@@ -1,7 +1,7 @@
-package com.zbw.mapper;
+package com.pys.mapper;
 
-import com.zbw.domain.Admin;
-import com.zbw.domain.AdminExample;
+import com.pys.domain.Admin;
+import com.pys.domain.AdminExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

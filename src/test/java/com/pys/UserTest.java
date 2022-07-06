@@ -1,12 +1,12 @@
-package com.zbw;
+package com.pys;
 
-import com.zbw.domain.Department;
-import com.zbw.domain.User;
-import com.zbw.domain.Vo.BorrowingBooksVo;
-import com.zbw.mapper.UserMapper;
-import com.zbw.service.IBorrowingBooksRecordService;
-import com.zbw.service.IUserService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.Department;
+import com.pys.domain.User;
+import com.pys.domain.Vo.BorrowingBooksVo;
+import com.pys.mapper.UserMapper;
+import com.pys.service.IBorrowingBooksRecordService;
+import com.pys.service.IUserService;
+import com.pys.utils.page.Page;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

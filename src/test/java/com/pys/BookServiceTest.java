@@ -1,10 +1,10 @@
-package com.zbw;
+package com.pys;
 
-import com.zbw.domain.Book;
-import com.zbw.domain.Vo.BookVo;
-import com.zbw.mapper.BookMapper;
-import com.zbw.service.IBookService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.Book;
+import com.pys.domain.Vo.BookVo;
+import com.pys.mapper.BookMapper;
+import com.pys.service.IBookService;
+import com.pys.utils.page.Page;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

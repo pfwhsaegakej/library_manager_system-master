@@ -1,7 +1,7 @@
-package com.zbw.mapper;
+package com.pys.mapper;
 
-import com.zbw.domain.User;
-import com.zbw.domain.UserExample;
+import com.pys.domain.User;
+import com.pys.domain.UserExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

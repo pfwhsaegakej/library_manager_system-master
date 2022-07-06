@@ -1,11 +1,10 @@
-package com.zbw.mapper;
+package com.pys.mapper;
 
-import com.zbw.domain.BookCategory;
-import com.zbw.domain.BookCategoryExample;
+import com.pys.domain.BookCategory;
+import com.pys.domain.BookCategoryExample;
+import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
-
-import org.apache.ibatis.annotations.Param;
 
 public interface BookCategoryMapper {
     long countByExample(BookCategoryExample example);

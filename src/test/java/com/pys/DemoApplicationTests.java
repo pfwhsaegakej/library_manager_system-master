@@ -1,7 +1,7 @@
-package com.zbw;
+package com.pys;
 
-import com.zbw.domain.User;
-import com.zbw.mapper.UserMapper;
+import com.pys.domain.User;
+import com.pys.mapper.UserMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

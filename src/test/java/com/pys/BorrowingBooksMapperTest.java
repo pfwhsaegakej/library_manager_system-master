@@ -1,7 +1,7 @@
-package com.zbw;
+package com.pys;
 
-import com.zbw.domain.BorrowingBooks;
-import com.zbw.mapper.BorrowingBooksMapper;
+import com.pys.domain.BorrowingBooks;
+import com.pys.mapper.BorrowingBooksMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

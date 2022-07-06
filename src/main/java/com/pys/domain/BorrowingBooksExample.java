@@ -1,4 +1,4 @@
-package com.zbw.domain;
+package com.pys.domain;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,8 +1,8 @@
-package com.zbw.service;
+package com.pys.service;
 
-import com.zbw.domain.Admin;
-import com.zbw.domain.Book;
-import com.zbw.domain.BookCategory;
+import com.pys.domain.Admin;
+import com.pys.domain.Book;
+import com.pys.domain.BookCategory;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;

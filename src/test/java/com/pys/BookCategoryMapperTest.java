@@ -1,7 +1,7 @@
-package com.zbw;
+package com.pys;
 
-import com.zbw.domain.BookCategory;
-import com.zbw.mapper.BookCategoryMapper;
+import com.pys.domain.BookCategory;
+import com.pys.mapper.BookCategoryMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,9 +1,9 @@
-package com.zbw.service.impl;
+package com.pys.service.impl;
 
-import com.zbw.domain.BookCategory;
-import com.zbw.mapper.BookCategoryMapper;
-import com.zbw.service.IBookCategoryService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.BookCategory;
+import com.pys.mapper.BookCategoryMapper;
+import com.pys.service.IBookCategoryService;
+import com.pys.utils.page.Page;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

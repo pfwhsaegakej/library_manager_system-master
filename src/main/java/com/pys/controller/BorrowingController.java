@@ -1,8 +1,8 @@
-package com.zbw.controller;
+package com.pys.controller;
 
-import com.zbw.domain.Vo.BorrowingBooksVo;
-import com.zbw.service.IBorrowingBooksRecordService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.Vo.BorrowingBooksVo;
+import com.pys.service.IBorrowingBooksRecordService;
+import com.pys.utils.page.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

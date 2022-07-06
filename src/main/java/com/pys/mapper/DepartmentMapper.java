@@ -1,11 +1,10 @@
-package com.zbw.mapper;
+package com.pys.mapper;
 
-import com.zbw.domain.Department;
-import com.zbw.domain.DepartmentExample;
+import com.pys.domain.Department;
+import com.pys.domain.DepartmentExample;
+import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
-
-import org.apache.ibatis.annotations.Param;
 
 public interface DepartmentMapper {
     long countByExample(DepartmentExample example);

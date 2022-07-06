@@ -1,4 +1,4 @@
-package com.zbw.domain.Vo;
+package com.pys.domain.Vo;
 
 import lombok.Data;
 

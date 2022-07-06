@@ -1,10 +1,10 @@
-package com.zbw.service.impl;
+package com.pys.service.impl;
 
-import com.zbw.domain.*;
-import com.zbw.mapper.AdminMapper;
-import com.zbw.mapper.BookCategoryMapper;
-import com.zbw.mapper.BookMapper;
-import com.zbw.service.IAdminService;
+import com.pys.domain.*;
+import com.pys.mapper.AdminMapper;
+import com.pys.mapper.BookCategoryMapper;
+import com.pys.mapper.BookMapper;
+import com.pys.service.IAdminService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

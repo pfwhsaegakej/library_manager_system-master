@@ -1,13 +1,13 @@
-package com.zbw.service.impl;
+package com.pys.service.impl;
 
-import com.zbw.domain.*;
-import com.zbw.domain.Vo.BorrowingBooksVo;
-import com.zbw.mapper.BookMapper;
-import com.zbw.mapper.BorrowingBooksMapper;
-import com.zbw.mapper.DepartmentMapper;
-import com.zbw.mapper.UserMapper;
-import com.zbw.service.IUserService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.*;
+import com.pys.domain.Vo.BorrowingBooksVo;
+import com.pys.mapper.BookMapper;
+import com.pys.mapper.BorrowingBooksMapper;
+import com.pys.mapper.DepartmentMapper;
+import com.pys.mapper.UserMapper;
+import com.pys.service.IUserService;
+import com.pys.utils.page.Page;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

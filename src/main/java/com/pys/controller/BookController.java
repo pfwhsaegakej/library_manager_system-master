@@ -1,12 +1,12 @@
-package com.zbw.controller;
+package com.pys.controller;
 
-import com.zbw.domain.Book;
-import com.zbw.domain.BookCategory;
-import com.zbw.domain.Vo.BookVo;
-import com.zbw.service.IAdminService;
-import com.zbw.service.IBookCategoryService;
-import com.zbw.service.IBookService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.Book;
+import com.pys.domain.BookCategory;
+import com.pys.domain.Vo.BookVo;
+import com.pys.service.IAdminService;
+import com.pys.service.IBookCategoryService;
+import com.pys.service.IBookService;
+import com.pys.utils.page.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

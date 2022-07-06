@@ -1,13 +1,13 @@
-package com.zbw.controller;
+package com.pys.controller;
 
-import com.zbw.domain.Admin;
-import com.zbw.domain.BookCategory;
-import com.zbw.domain.User;
-import com.zbw.domain.Vo.BookVo;
-import com.zbw.service.IAdminService;
-import com.zbw.service.IBookCategoryService;
-import com.zbw.service.IUserService;
-import com.zbw.utils.page.Page;
+import com.pys.domain.Admin;
+import com.pys.domain.BookCategory;
+import com.pys.domain.User;
+import com.pys.domain.Vo.BookVo;
+import com.pys.service.IAdminService;
+import com.pys.service.IBookCategoryService;
+import com.pys.service.IUserService;
+import com.pys.utils.page.Page;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

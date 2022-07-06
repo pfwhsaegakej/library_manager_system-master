@@ -1,7 +1,7 @@
-package com.zbw.domain.Vo;
+package com.pys.domain.Vo;
 
-import com.zbw.domain.Book;
-import com.zbw.domain.User;
+import com.pys.domain.Book;
+import com.pys.domain.User;
 import lombok.Data;
 
 /**
